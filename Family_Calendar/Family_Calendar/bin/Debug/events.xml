@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEventData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventData>
+    <Date>21.3.2025.</Date>
+    <Description>jaja</Description>
+  </EventData>
+  <EventData>
+    <Date>29.3.2025.</Date>
+    <Description>peršin</Description>
+  </EventData>
+  <EventData>
+    <Date>16.3.2025.</Date>
+    <Description>mama</Description>
+  </EventData>
+</ArrayOfEventData>
